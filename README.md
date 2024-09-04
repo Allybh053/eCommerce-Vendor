@@ -61,6 +61,8 @@ To get a local copy up and running follow these simple steps.
 ```sh
     php artisan serve
 ```
+<img width="908" alt="1" src="https://github.com/user-attachments/assets/6bb7a7d7-bb80-4051-beee-41a10bd23f7a">
+
 
 -  Directly create a pull request after you edit the files with necessary changes.
 
