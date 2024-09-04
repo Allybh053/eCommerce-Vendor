@@ -1,20 +1,5 @@
 <br/>
 
-## Table Of Contents
-
-- [About The Project](#about-the-project)
-- [Features](#features)
-- [Demo Video](#demo_video)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Contributing](#contributing)
-  - [Creating A Pull Request](#creating-a-pull-request)
-- [License](#license)
-
-## About The Project
-
 It is a backend system for an E-Commerce built with the Laravel framework, provides a simple and secure platform for online buying and selling. With features like user authentication, and product management.
 
 ## Features
@@ -24,23 +9,6 @@ It is a backend system for an E-Commerce built with the Laravel framework, provi
 - Vendor capabilities to manage their own shop
 - CRUD operations for managing brands, coupons, products, categories, and subcategories
 - Automatic coupon deactivation using events in MySQL ( No need to do it manually )
-
-### Screenshots
-![screenshot_1](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/assets/72188665/ed55f8ab-62ec-4bf6-86ac-d1a46b164841)
-
-
-<hr />
-
-![screenshot_2](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/assets/72188665/40906698-aa10-48dc-b2ea-0e83eb48d5ca)
-
-
-### Database Diagram
-
-![db_diagram](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/assets/72188665/11bf6490-056b-4356-ad33-3d382c48cb6c)
-
-
-
-
 
 
 ## Built With
@@ -67,7 +35,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
 ```sh
-    git clone https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel.git
+   (https://github.com/Allybh053/eCommerce-Vendor.git)
 ```
 
 2. Import the database file from the folder "SQL File"
@@ -94,10 +62,6 @@ To get a local copy up and running follow these simple steps.
     php artisan serve
 ```
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-- If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/MUSTAFA-Hamzawy/Multi-vendor-eCommerce-laravel/issues/new) to discuss it, or
 -  Directly create a pull request after you edit the files with necessary changes.
 
 ### Creating A Pull Request
